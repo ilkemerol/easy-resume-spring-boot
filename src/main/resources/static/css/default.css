@@ -17,6 +17,10 @@
 	color: #837c9a;
 }
 
+.black {
+	color: #000;
+}
+
 .block {
 	margin: 25px 30px;
 }
@@ -92,7 +96,6 @@
 /* Main tags */
 
 body {
-	background: url(http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/dark_wall.png) repeat;
 	margin: 0;
 }
 
